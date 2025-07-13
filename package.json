@@ -1,6 +1,6 @@
 {
   "name": "onepiece-lang",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "🏴‍☠️ A pirate-themed programming language that compiles to JavaScript",
   "main": "onepiece.js",
   "type": "module",
