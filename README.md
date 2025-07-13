@@ -4,7 +4,7 @@
 </center>
 
 
-<p align="center"> <img src="/Users/deepaksarun/Desktop/CODE/OnePiece_Lang/onepiece.gif" alt="OnePiece Lang CLI Demo" width="" /> </p>
+<p align="center"> <img src="https://github.com/DeeapakSarun/OnePiece_Lang/blob/master/onepiece.gif" alt="OnePiece Lang CLI Demo" width="" /> </p>
 
 
 
