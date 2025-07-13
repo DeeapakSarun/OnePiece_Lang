@@ -1,12 +1,29 @@
 {
-  "name": "onepiece_lang",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "name": "onepiece-lang",
+  "version": "1.0.1",
+  "description": "🏴‍☠️ A pirate-themed programming language that compiles to JavaScript",
+  "main": "onepiece.js",
+  "type": "module",
+  "bin": {
+    "onepiece": "./onepiece.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": ""
+  "scripts": {
+    "postinstall": "node postinstall.js",
+    "test": "echo \"🧪 No test suite yet, captain!\" && exit 1"
+  },
+  "author": "Deepak Sarun",
+  "license": "MIT",
+  "keywords": [
+    "compiler",
+    "cli",
+    "dsl",
+    "pirate",
+    "javascript",
+    "onepiece",
+    "transpiler"
+  ],
+  "dependencies": {
+    "boxen": "^7.1.1",
+    "chalk": "^5.4.1"
+  }
 }
