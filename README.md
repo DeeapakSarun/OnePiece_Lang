@@ -2,11 +2,29 @@
 <h1 align="center">🏴‍☠️ OnePiece Lang</h1>
 
 
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/DeeapakSarun/OnePiece_Lang/master/onepiece.gif" alt="OnePiece Lang CLI Demo" width="600" />
 </p>
 
+
+<p align="center">
+  <img alt="npm" src="https://img.shields.io/npm/v/onepiece-lang">
+  <img alt="license" src="https://img.shields.io/npm/l/onepiece-lang">
+  <img alt="downloads" src="https://img.shields.io/npm/dt/onepiece-lang">
+</p>
+
+
+## 📚 Table of Contents
+
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Language Syntax](#-language-syntax)
+- [CLI Reference](#-cli-reference)
+- [Project Structure](#-project-structure)
+- [Developing](#-developing)
+- [Coming Soon](#-coming-soon)
+- [License](#-license)
+- [Credits](#-credits--disclaimer)
 
 
 
