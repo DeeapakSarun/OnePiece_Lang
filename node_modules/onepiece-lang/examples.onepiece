@@ -1,0 +1,12 @@
+
+temporaryBounty islands = 10
+
+ untilRaftel(islands>=0) 
+    hasHaki(islands%2 == 0)
+        echoDenDen("I'm Charitha, and I'm gonna become the queen of pirates!")
+    DockAtHarbor
+    noHaki
+        echoDenDen("I'm Deepak, and I'm gonna become the king of pirates!")
+    DockAtHarbor
+    islands -= 1
+DockAtHarbor
